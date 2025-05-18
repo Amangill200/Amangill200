@@ -1,4 +1,10 @@
 🔐 Ethical Hacking Project
+Author : Amanveer Singh Gill
+
+Semester: 6
+
+Branch : Cyber Security
+
 Scanning and Enumerating a Local Network with Nmap
 Table of Contents
 Project: Simulating Real-World Network Exploitation and Defense
